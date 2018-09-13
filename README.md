@@ -1,4 +1,4 @@
 # ITF-Lab 2018
 
-## Auther
+## Author
 JAKKRAPAT SUWANNO 61070022
